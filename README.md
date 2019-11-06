@@ -1,1 +1,1 @@
-some tests around netocore on linux
+some tests around dotnetcore on linux
